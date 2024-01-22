@@ -318,7 +318,7 @@
   }
   
   .logo{
-    background-image: url("img/amazonlogo.png");
+    background-image: url("amazonlogo.png");
     height: 50px;
     width: 100%;
     background-size: cover;
